@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+
+
+body{
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    background-color: aqua;
+}
+
+img{
+    width: 400px;
+    height: auto;
+}
+
+h1{
+    color: deeppink;
+    font-size: 50px;
+}
+ h2{
+    color: rgb(99, 50, 90);
+ }
+
+ p, ul, ol{
+    font-family: 'Nabla', cursive;
+ }
